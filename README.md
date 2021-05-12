@@ -19,6 +19,7 @@
 
 ## Thank you!
 
+##### Apologies for the shitty job right now, emulators are with the dol and elfs
 For WiiWare WADS, check this archive out:
 https://archive.org/details/WiiWareCollectionByGhostware
 Credit to the WiiWare goes 100% to Ghostware, kudos to you!
